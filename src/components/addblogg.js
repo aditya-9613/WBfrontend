@@ -79,7 +79,7 @@ const Addblogg = () => {
                             <div className="col-12">
                                 <label htmlFor="inputZip" className="form-label">Images</label>
                                 <input type="file" className="form-control" id="inputZip" onChange={change} multiple />
-                                <div className="imagetagline">Only Six Images Can be Uploaded at a Time.</div>
+                                <div className="imagetagline">Only Two Images at a Time .</div>
                             </div>
                             <div className="col-12 d-flex justify-content-center mb-5 mt-5">
                                 <button type="button" className="btn btn-primary" onClick={postblog}>Post Blogg</button>
