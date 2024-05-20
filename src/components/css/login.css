@@ -1,0 +1,18 @@
+.loginbox h2{
+     font-family: cursive;
+     color: #00ffff;
+}
+.loginbox label{
+    font-family: sans-serif;
+    font-size: large;
+}
+.enterbox{
+    background-color: #F0F3FF;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    border-radius: 15px;
+    box-shadow: 10px 5px 5px #4d5c9a;
+}
+.enterbox label{
+    font-family: cursive;
+}

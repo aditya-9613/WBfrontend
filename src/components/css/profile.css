@@ -1,0 +1,22 @@
+.newblog button{
+     background-color: #6495ed;
+     font-size: medium;
+     font-weight: 500;
+     margin-bottom: 1.5rem;
+     color: #00ffff;
+     border-radius: 10px;
+     height: 2.5rem;
+}
+.bloghead h4{
+     color: #00ffff;
+     margin-bottom: 1rem;
+     font-family: monospace;
+} 
+.accblog{
+     background-color: #DDF2FD;
+     box-shadow: 10px 5px 5px #2f2e2e;
+     border-radius: 15px;
+     margin-left: 1rem;
+     margin-bottom: 1rem;
+     padding-bottom: 3px;
+}

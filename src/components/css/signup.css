@@ -1,0 +1,15 @@
+.signupbox h2{
+    font-family:monospace;
+    color: #00ffff;
+}
+.signup{
+    background-color: rgb(122, 165, 245);
+    padding-bottom: 3rem;
+    padding-top: 0.5rem;
+    border-radius: 10px;
+    box-shadow: 10px 5px 5px rgb(33, 63, 12);
+    
+}
+.signup label{
+    font-family:cursive;
+}

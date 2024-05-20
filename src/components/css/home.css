@@ -1,0 +1,38 @@
+.blogbox{
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px #2f2e2e;
+    margin-left: 0.5rem;
+    background-color: #98ABEE;
+}
+.date h5{
+    font-size: x-small;
+}
+.postedby p {
+    font-family: cursive;
+    font-size: large;
+}
+.image img{
+    height: 250px;
+}
+.date h5{
+    font-weight: 900;
+    font-family: cursive;
+}
+.title h5{
+    font-size: medium;
+    font-family:'Times New Roman';
+    font-weight: 800;
+}
+.description h5{
+   font-family: cursive;
+}
+.postdp{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+.bloggsfeed{
+    margin-top: 1rem;
+    color: #00ffff;
+    font-family: cursive;
+}

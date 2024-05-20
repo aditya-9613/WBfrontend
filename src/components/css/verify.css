@@ -1,0 +1,19 @@
+.otpbox{
+    background-color: #708090;
+    border-radius: 10px;
+    box-shadow: 10px 5px 5px #808080;
+}
+.otpbox label{
+    font-family: cursive;
+    font-size: large;
+    font-weight: 500;
+}
+.verifybox h3{
+    color: #00ffff;
+    font-family: monospace;
+    margin-bottom: 5rem;
+    margin-top: 10rem;
+}
+.verifybox{
+    margin-top: 1rem;
+}

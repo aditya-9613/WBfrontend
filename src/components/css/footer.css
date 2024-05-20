@@ -1,0 +1,12 @@
+.footerbox{
+    background-color: #468B97;
+    color: #ffffff;
+}
+.footbox{
+    background-color: #000000;
+    height: 1.5rem;
+    color: #ffffff;
+}
+.footerbox p{
+    font-family: cursive;
+}

@@ -1,0 +1,22 @@
+.imageblogg p{
+   color: white;
+   font-weight: 700;
+   font-family: cursive;
+}
+.imageblogg h3{
+    margin-top: 5rem;
+    color: #00ffff;
+    font-weight: 700;
+    font-family:cursive;
+    margin-bottom: 2rem;
+}
+.descrip{
+    font-size: larger;
+}
+.postdate{
+    font-size: x-small;
+}
+.imageblogg img{
+    border-radius: 10px;
+    height: 250px;
+}
